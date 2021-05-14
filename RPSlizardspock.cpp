@@ -1,7 +1,7 @@
 #include <iostream> 
 #include <stdlib.h> 
 
-//Rock, paper, scissors, lizard, spock against computer
+//Play rock, paper, scissors, lizard, spock from The Big Bang Theory against the CPU!
 
 int main() {
 
