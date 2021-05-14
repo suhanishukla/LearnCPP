@@ -76,6 +76,6 @@ int main() {
         std::cout << "You've met your match. It's a draw!\n";
     }
     else {
-        std::cout << "You're trash kid";
+        std::cout << "You lose. You're trash kid!";
     }
 }
