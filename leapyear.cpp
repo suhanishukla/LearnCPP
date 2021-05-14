@@ -1,5 +1,8 @@
 #include <iostream>
 
+//Take a four digit year and determine if it is a leap year. 
+//A year is a leap year if it can be evenly divided by 4, and if it is divisible by 100 then it must be divisible by 400 as well. 
+
 int main() {
   std::cout << "Enter a year: ";
   int year; 
