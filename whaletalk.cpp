@@ -2,6 +2,8 @@
 #include <vector>
 #include <string>
 
+//translating english to whale talk: only take the vowels from the english and double the e's and u's. 
+
 int main() {
  std::string english = "hi human";
  std::vector<char> vowels = {'a', 'e', 'i', 'o', 'u'};
