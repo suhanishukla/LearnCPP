@@ -1,4 +1,5 @@
 #include <iostream>
+//return numbers 1-100 and for multiples of 3 return fizz, for multiples of 5 return buzz, and for multiples of 5 and 3 return fizzbuzz.
 
 int main() {
 
