@@ -1,4 +1,5 @@
 #include <iostream>
+//write a function to determine whether or not a word is a palindrome. 
 
 // Define is_palindrome() here:
 bool is_palindrome(std::string text) {
